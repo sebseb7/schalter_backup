@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /home/seb/repos/tigger
+chpst -uswitchbot node server.js schalter@hq.c3d2.de alterwalter c3d2@muc.hq.c3d2.de/HQStatusBot
+
